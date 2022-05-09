@@ -1,0 +1,5 @@
+{
+    "user": "alice",
+    "method": "PUT",
+    "path": ["v1", "cars", "id1234"]
+}

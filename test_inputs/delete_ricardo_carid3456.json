@@ -1,0 +1,5 @@
+{
+    "user": "ricardo",
+    "method": "DELETE",
+    "path": ["v1", "cars", "id3456"]
+}

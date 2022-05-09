@@ -1,0 +1,5 @@
+{
+    "user": "alice",
+    "method": "POST",
+    "path": ["v1", "cars"]
+}
